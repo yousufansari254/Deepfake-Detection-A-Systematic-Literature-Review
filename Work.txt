@@ -1,0 +1,38 @@
+Service Provider
+
+Login,
+Train & Test Data Sets, 
+View Videos Datasets Trained and Tested Accuracy in Bar Chart, 
+View Videos Datasets Trained and Tested Accuracy Results, 
+View Deepfake Prediction Type, 
+View Deepfake Prediction Ratio, 
+Download Predicted Data Sets, 
+View Deepfake Prediction Ratio Results, 
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT DEEPFAKE DETECTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+url,
+ipaddress,
+videoname,
+original_width,
+original_height,
+country,
+locale,
+latitude,
+longitude,
+Prediction.
+
+
+
+
+
+
